@@ -1,4 +1,4 @@
 [core]
     remote = myremote
 ['remote "myremote"']
-    url = ssh://aksha@172.232118.182:22/home/aksha/dvc-assignment4
+    url = ssh://aksha@172.232.118.182:22/home/aksha/dvc-assignment4
